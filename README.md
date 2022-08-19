@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Izymryda
-- 👀 I’m interested in C#, .Net, MVC, .Net Core.
+- 👀 I’m interested in C#, .Net, MVC, .Net Core or Web Developer
 - 🌱 I’m currently create a test project for some IT company.
 - 💞️ I’m looking to collaborate on .Net Developer or some startups.
 - 📫 How to reach me: https://www.linkedin.com/in/tetiana-slotvinska/
